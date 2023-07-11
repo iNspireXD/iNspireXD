@@ -1,7 +1,5 @@
 # 🚀 About Me:
  Hello there! I'm Aswin, a passionate Software Developer who loves exploring the realms of technology and creativity.<br><br>As a Computer Engineering Student, I possess a strong skill set and a passion for software development. <br>During my academic journey, I have gained expertise in various programming languages, platforms, and frameworks. With my strong technical foundation, problem-solving abilities, and a drive for excellence, I am confident in my ability to contribute to the success of software development<br>projects. I am excited about the opportunity to apply my skills and make a positive impact in the field ofsoftware development.<br>
-<img align="right" alt="cat-gif" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" />
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aswin.karkii) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aswinkarkii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aswin-karki-a24aa3278) 
 
