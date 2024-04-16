@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Aswin Karki, a passionate Software Developer from who loves exploring the realms of technology and creativity. 
+I'm Aswin Karki, a passionate Software Developer who loves exploring the realms of technology and creativity. 
 
 ## 💻 Technical Skills
 
