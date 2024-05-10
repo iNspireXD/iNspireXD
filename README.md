@@ -11,7 +11,7 @@ I'm Aswin Karki, a passionate Software Developer who loves exploring the realms 
 
 ## 🌱 Learning and Growing
 
-I'm constantly exploring new technologies and expanding my skill set. Currently, I'm diving deeper into React Native, TypeScript, and mobile app development. I'm also keen on learning about cloud computing, DevOps.
+I'm constantly exploring new technologies and expanding my skill set. Currently, I'm diving deeper into React Native, TypeScript, and mobile app development. I'm also keen on learning about game development.
 ## 📫 Let's Connect
 
 Feel free to reach out to me for collaborations, discussions, or any inquiries!
