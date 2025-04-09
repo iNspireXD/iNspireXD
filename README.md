@@ -6,7 +6,8 @@ I'm Aswin Karki, a passionate Software Developer who loves exploring the realms 
 
 - **Programming Languages:** TypeScript, JavaScript, Kotlin
 - **Front-end Development:** React.js, Html, CSS, Tailwind CSS
-- **Mobile Development:** React Native, Expo, Android Studio
+- **Mobile Development:** React Native, Expo, Android Studio, Jetpack Compose
+- **Back-end Development:** NodeJs, Express, MongoDB, PostgreSQL
 - **Version Control:** Git, GitHub
 
 ## 🌱 Learning and Growing
